@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iledeslegendes.com/sitemap.xml
